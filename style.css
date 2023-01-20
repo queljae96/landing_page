@@ -1,0 +1,98 @@
+*{
+    border: 0;
+    padding: 0;
+    outline: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+header {
+    display: flex;
+    width: 100%;
+    background-color: #776CFF;
+}
+
+header h1{
+    margin-left: 2.0vw;
+    margin-top:0.9vw ;
+    margin-bottom: 1.0vw;
+    color: white;
+}
+
+header nav {
+    margin-left: auto;
+    margin-top: 1.5vw;
+    margin-bottom: 1.5vw;
+}
+
+header a{
+    margin-left: 2.5vw;
+    margin-right: 2.5vw;
+    text-decoration: none;
+    color: #ffff;
+}
+
+nav a:hover{
+    color:yellow;
+}
+
+.sessao{
+    display: flex;
+}
+
+.title{
+    margin-top: 2.5vw;
+    margin-bottom: 2.5vw;
+    margin-left: 1.5vw;
+}
+
+.title h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 2.5vw;
+    color: #4C3CE3;
+}
+
+.title p{
+    font-size: 1.8vw;
+    color: #FD4CC8;
+}
+
+.sessao{
+    margin-left: 1.5vw;
+}
+
+.sessao p{
+    font-size: 2.0vw;
+    margin-bottom: 3.5vw;
+}
+
+.id1 a{
+    text-decoration: none;
+    background-color: #4C3CE3;
+    color: white;
+    padding-top: 0.5vw;
+    padding-bottom: 0.5vw;
+    padding-left: 0.4vw;
+    padding-right: 0.4vw;
+    font-size: 18px;
+}
+
+.id1 a:hover{
+    opacity: 50%;
+}
+
+.sessao img{
+    width: 80%;
+}
+
+.id1{
+   margin-top: auto;
+   margin-bottom:auto ;
+   margin-left: 4.5vw;
+}
+
+.id2{
+   margin-left: auto;
+   margin-right: auto;
+}
